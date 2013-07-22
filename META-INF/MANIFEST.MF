@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: RSyntaxTextAreaDemo
+Bundle-SymbolicName: RSyntaxTextAreaDemo
+Bundle-Version: 2.0.7.qualifier
+Export-Package: org.fife.ui.rsyntaxtextarea.demo
+Require-Bundle: RSyntaxTextArea;bundle-version="2.0.7"
+Bundle-ClassPath: examples/,
+ img/,
+ .
